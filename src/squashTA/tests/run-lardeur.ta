@@ -1,0 +1,3 @@
+TEST :
+
+# EXECUTE_SELENIUM2 lardeur/src/main WITH MAIN CLASS test.PremierTest AND COMPILE OPTIONS $(-encoding UTF-8)
